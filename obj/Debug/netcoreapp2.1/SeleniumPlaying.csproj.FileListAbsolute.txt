@@ -1,0 +1,11 @@
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\bin\Debug\netcoreapp2.1\SeleniumPlaying.deps.json
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\bin\Debug\netcoreapp2.1\SeleniumPlaying.runtimeconfig.json
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\bin\Debug\netcoreapp2.1\SeleniumPlaying.runtimeconfig.dev.json
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\bin\Debug\netcoreapp2.1\SeleniumPlaying.dll
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\bin\Debug\netcoreapp2.1\SeleniumPlaying.pdb
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\obj\Debug\netcoreapp2.1\SeleniumPlaying.csprojAssemblyReference.cache
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\obj\Debug\netcoreapp2.1\SeleniumPlaying.csproj.CoreCompileInputs.cache
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\obj\Debug\netcoreapp2.1\SeleniumPlaying.AssemblyInfoInputs.cache
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\obj\Debug\netcoreapp2.1\SeleniumPlaying.AssemblyInfo.cs
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\obj\Debug\netcoreapp2.1\SeleniumPlaying.dll
+C:\Users\steze\source\repos\SeleniumPlaying\SeleniumPlaying\obj\Debug\netcoreapp2.1\SeleniumPlaying.pdb
