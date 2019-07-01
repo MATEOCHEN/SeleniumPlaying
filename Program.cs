@@ -1,6 +1,6 @@
-﻿using System;
-using OpenQA.Selenium;
+﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using System;
 
 namespace SeleniumPlaying
 {
@@ -15,6 +15,7 @@ namespace SeleniumPlaying
             WebDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
             var searchInput = WebDriver.FindElement(By.Id("search"));
             searchInput.SendKeys("Selenium Playing is Fun");
+            searchInput.SendKeys(Keys.Enter);
         }
     }
 }
